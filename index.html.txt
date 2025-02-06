@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Heim Co., Ltd.</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #fff;
+            color: #333;
+        }
+
+        header {
+            background-color: white;
+            text-align: center;
+            padding: 20px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+
+        header h1 {
+            color: #D4AF37; /* 골드 색상 */
+            font-size: 36px;
+            font-weight: bold;
+            margin: 0;
+        }
+
+        header p {
+            color: #333;
+            font-size: 18px;
+        }
+
+        section {
+            padding: 50px 20px;
+            text-align: center;
+        }
+
+        section h2 {
+            color: #D4AF37;
+            font-size: 28px;
+            margin-bottom: 20px;
+        }
+
+        section p {
+            font-size: 18px;
+            line-height: 1.6;
+            color: #555;
+        }
+
+        footer {
+            background-color: #f1f1f1;
+            text-align: center;
+            padding: 10px;
+            font-size: 14px;
+            color: #777;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Heim Co., Ltd.</h1>
+        <p>우리는 고급스러움과 품질을 자랑하는 기업입니다.</p>
+    </header>
+
+    <section>
+        <h2>회사 소개</h2>
+        <p>Heim Co., Ltd.는 혁신적이고 고급스러운 제품을 제공하는 것을 목표로 하고 있습니다. 우리의 비전은 고객에게 최고의 경험을 선사하는 것입니다. 우리는 품질, 신뢰성, 그리고 뛰어난 고객 서비스에 중점을 두고 있습니다.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Heim Co., Ltd. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
